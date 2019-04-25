@@ -156,3 +156,6 @@ section {
     list-style-type: disc;
     margin-left: 20px;
 }
+footer {
+    text-align: center;
+}
